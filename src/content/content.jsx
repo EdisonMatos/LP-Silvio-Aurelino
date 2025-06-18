@@ -101,6 +101,7 @@ export const infos = {
   instagramProfile: "dr.silvioaureliano", // Sem o @
   facebookProfile: "A_Definir",
   linkeDinProfile: "A_Definir",
+  tiktokProfile: "@dr.silvioaureliano",
   x: "A_Definir",
   whatsappDefaultMessage:
     "Olá! Vim através do site de vocês e gostaria de tirar umas dúvidas.",
@@ -471,6 +472,7 @@ const content = {
         labelInstagram: "Siga-me no Instagram",
         labelFacebook: "Siga-me no Facebook",
         labelLinkedin: "Siga-me no LinkedIn",
+        labelTiktok: "Siga-me no Tiktok",
         labelX: "Siga-me no X",
       },
     },
@@ -884,13 +886,14 @@ const content = {
       },
     },
     links: {
+      x: `https://x.com/${infos.x}`,
+      tiktok: `https://www.tiktok.com/${infos.tiktokProfile}/`,
+      facebook: `https://www.facebook.com/${infos.facebookProfile}`,
+      linkedin: `https://www.linkedin.com/in/${infos.linkeDinProfile}`,
       instagram: `https://www.instagram.com/${infos.instagramProfile}/`,
       ctaWhatsapp: `https://wa.me/+55${infos.phone.ddd}${infos.phone.firstPart}${infos.phone.secondPart}?text=${infos.whatsappDefaultMessage}`,
       phoneSecundario: `https://wa.me/+55${infos.phoneSecundario.ddd}${infos.phoneSecundario.firstPart}${infos.phoneSecundario.secondPart}?text=${infos.whatsappDefaultMessage}`,
       phoneTerciario: `https://wa.me/+55${infos.phoneTerciario.ddd}${infos.phoneTerciario.firstPart}${infos.phoneTerciario.secondPart}?text=${infos.whatsappDefaultMessage}`,
-      facebook: `https://www.facebook.com/${infos.facebookProfile}`,
-      x: `https://x.com/${infos.x}`,
-      linkedin: `https://www.linkedin.com/in/${infos.linkeDinProfile}`,
     },
     infos: {
       phone: `(${infos.phone.ddd}) ${infos.phone.firstPart}-${infos.phone.secondPart}`,

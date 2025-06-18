@@ -5,7 +5,7 @@ import Button from "../../interactives/Button";
 function TikTokAbout() {
   return (
     <Button
-      label={content.texts.about.aboutSocial.labeltiktok}
+      label={content.texts.about.aboutSocial.labelTiktok}
       buttonLink={content.texts.links.tiktok}
       icon={
         <svg
