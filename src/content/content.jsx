@@ -443,51 +443,47 @@ const content = {
       miniTag: "QUEM É O DR. SILVIO AURELIANO",
       title: "Minha trajetória",
       subtitle:
-        "Mais de 27 anos de experiência e atuação estratégica em diversas áreas do Direito.",
+        "Mais de 37 anos de experiência e atuação estratégica em diversas áreas do Direito.",
       labelInstagram: "Siga-me no Instagram",
       labelFacebook: "Siga-me no Facebook",
       labelLinkedin: "Siga-me no LinkedIn",
       labelX: "Siga-me no X",
       paragraph: (
         <div>
-          Atuo na advocacia há mais de 27 anos, com ampla experiência nas áreas
-          Cível, Trabalhista, Penal, Tributária, Empresarial e do Consumidor.
-          <br />
-          Ao longo da minha trajetória, sempre busquei unir conhecimento técnico
-          e visão estratégica para oferecer soluções jurídicas eficazes,
-          conduzindo processos do início à execução com foco em resultados.
+          Mais de 37 anos de experiência, sendo 27 de atuação estratégica em
+          diversas áreas do Direito, com ampla experiência nas Áreas Societária,
+          Cível e Família, Imobiliário, Trabalhista, Criminal, Tributária e
+          Consumidor.
         </div>
       ),
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p>
-          Atuo na advocacia há mais de 27 anos, com ampla experiência nas áreas
-          Cível, Trabalhista, Penal, Tributária, Empresarial e do Consumidor.
+          Mais de 37 anos de experiência, sendo 27 de atuação estratégica em
+          diversas áreas do Direito, com ampla experiência nas Áreas Societária,
+          Cível e Família, Imobiliário, Trabalhista, Criminal, Tributária e
+          Consumidor.
           <br />
           <br />
           Ao longo da minha trajetória, sempre busquei unir conhecimento técnico
-          e visão estratégica para oferecer soluções jurídicas eficazes,
-          conduzindo processos do início à execução com foco em resultados.
+          e visão estratégica para oferecer soluções jurídicas eficazes aos
+          clientes, conduzindo processos com foco em resultados.
           <br />
           <br />
-          Fui sócio fundador da Aureliano Sociedade de Advocacia por mais de 11
+          Sou sócio fundador da Aureliano Sociedade de Advocacia por mais 18
           anos, liderando equipes e representando clientes em todo o território
-          nacional.
+          nacional, mantendo meu compromisso com uma advocacia ética, moderna e
+          centrada nas necessidades de cada cliente.
           <br />
           <br />
           Também tive a oportunidade de atuar no setor corporativo, onde
-          implantei departamentos jurídicos internos e participei de processos
-          de due diligence, reestruturações societárias e auditorias de
-          compliance.
+          implantei departamento jurídico interno e participei de processos de
+          due diligence, reestruturação societárias e auditorias de compliance.
           <br />
           <br />
-          Sou pós-graduado em áreas como Direito Corporativo, Compliance,
-          Direito do Trabalho, Penal, Processo Tributário e Empresarial.
-          <br />
-          <br />
-          Hoje, integro o escritório Motoyama & Ferreira Advogados, mantendo meu
-          compromisso com uma advocacia ética, moderna e centrada nas
-          necessidades de cada cliente.
+          Atualmente cursando Pós-graduação em Direito Corporativo e Compliance,
+          possuo pós-graduação em Direito Empresarial, Direito Processual
+          Tributário, Direito Criminal e Direito do Trabalho.
           <br />
           <br />
         </p>
