@@ -32,10 +32,10 @@ export default function Index() {
       {/* <BlogPosts /> */}
       <Features
         colorMode={colorMode}
-        defaultFeature={true}
+        defaultFeature={false}
         button={false}
         modalWithCards={false}
-        paragraphs={false}
+        paragraphs={true}
         sixCards={false}
         paragraphsModal={false}
       />
@@ -44,6 +44,7 @@ export default function Index() {
         colorMode={colorMode}
         instagram={true}
         socialPrint={true}
+        tiktok={true}
       />
       <Cta colorMode={colorMode} />
       <Steps colorMode={colorMode} />
@@ -57,6 +58,7 @@ export default function Index() {
         phoneTerciario={false}
         expedientesecond={false}
         instagram={true}
+        tiktok={true}
       />
       <FloatingWhatsappButton />
       <BackToTopButton />
